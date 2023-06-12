@@ -1,4 +1,4 @@
-package Exam;
+package Ch99;
 
 import java.util.Scanner;
 
